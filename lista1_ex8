@@ -1,0 +1,7 @@
+entrada = int(input())
+
+f = (entrada * 1.8) + 32
+k = entrada + 273.15
+
+print(f"F: {f:.2f}")
+print(f"K: {k:.2f}")
